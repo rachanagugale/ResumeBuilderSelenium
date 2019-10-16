@@ -1,0 +1,100 @@
+html {
+    background-color: #444;
+    padding: 0 1em;
+}
+
+body {
+    background-color: #FFF;
+    font-family: 'Lato', sans-serif;
+    margin: 1em auto;
+    max-width: 50em;
+    height: 52.625em;
+}
+
+#section-left {
+    width: 35%;
+    float: left;
+    height: 100%;
+    background-color: #9932CC;
+    color: #fff;
+    text-align: center;
+}
+
+#section-left .section {
+    margin-top: 40%;
+    padding: 1em;
+}
+
+#section-left .section .logo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.intro hr {
+    width: 4em;
+    display: block;
+    height: 2px;
+    border: 0px;
+    border-top: 2px solid;
+}
+
+.dob {
+    text-decoration: overline underline;
+}
+
+.intro .content {
+    margin-bottom: 20px;
+}
+
+#contact {
+    margin-top: 40px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+#section-right {
+    width: 65%;
+    float: right;
+    /*height: 100%;*/
+}
+
+#section-right .section {
+    margin: 0 0 30px 0;
+}
+
+.wrapper {
+    padding: 2em;
+}
+
+.fa {
+    margin-right: 15px;
+    color:black;
+}
+
+.wrapper .title {
+    color: #9932CC;
+    font-size: 1.3em;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    border-bottom: 3px solid #9932cc;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+h3 {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+#contact {
+    padding: 1rem;
+}
