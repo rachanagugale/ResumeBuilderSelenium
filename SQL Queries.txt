@@ -1,0 +1,3 @@
+create TABLE userDetails (username varchar(20) PRIMARY KEY, name varchar(20), profession varchar(20), address varchar(50), phone int, email varchar(30), school varchar(30), sscPercent REAL, juniorCollege varchar(30), hscPercent REAL, university varchar(30), cgpa REAL, skills varchar(100), coverLetter varchar(200));
+
+create TABLE users(username varchar(20), password varchar(20));
